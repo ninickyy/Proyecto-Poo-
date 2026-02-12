@@ -1,6 +1,7 @@
 package Metodos;
 import Modelo.Eleccion;
 import Modelo.MesaElectoral;
+import java.util.Scanner;
 
 public class MetodosEleccion {
     private Eleccion[] elecciones;
